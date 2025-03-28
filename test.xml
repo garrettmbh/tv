@@ -3,8 +3,22 @@
 <channel id="mlbtor">
 <display-name>Baltimore Orioles - Toronto Blue Jays (HOME)</display-name>
 </channel>
+<channel id="Sportsnet.(Ontario).ca">
+<icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18799_h15_aa.png" />
+<icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18799_h15_aa.png" />
+<url>http://www.tvpassport.com</url>
+<display-name lang="en">Sportsnet (Ontario)</display-name>
+</channel>
 <programme start="20250328230700 +0000" stop="20250328235900 +0000" channel="mlbtor">
 <title lang="en">Baltimore v Toronto</title>
 <desc lang="en">Baseball game between Toronto and Baltimore.</desc>
+</programme>
+<programme channel="Sportsnet.(Ontario).ca" start="20250328190000 -0400" stop="20250328213000 -0400">
+<title lang="en">Live: NHL Hockey</title>
+<sub-title lang="en">Utah Hockey Club at Florida Panthers</sub-title>
+<desc lang="en">From Amerant Bank Arena in Sunrise, Fla.</desc>
+<category lang="en">Sports</category>
+<category lang="en">Hockey</category>
+<icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191278_i_h8_ab.jpg" />
 </programme>
 </tv>
