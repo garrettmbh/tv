@@ -3,7 +3,7 @@
 <channel id="mlbtor">
 <display-name>Baltimore Orioles - Toronto Blue Jays (HOME)</display-name>
 </channel>
-<programme start="20250328190700 +0400" stop="20250328230000 +0400" channel="mlbtor">
+<programme start="20250328230700 +0000" stop="20250328235900 +0000" channel="mlbtor">
 <title lang="en">Baltimore v Toronto</title>
 <desc lang="en">Baseball game between Toronto and Baltimore.</desc>
 </programme>
