@@ -3,7 +3,7 @@
 <channel id="mlbtor">
 <display-name>Toronto BJ</display-name>
 </channel>
-<programme start="20250328004100 +0000" stop="20250328012100 +0000" channel="mlbtor">
+<programme start="20250328190700 EST" stop="20250328230000 EST" channel="mlbtor">
 <title lang="en">Baltimore v Toronto</title>
 <desc lang="en">Baseball game between Toronto and Baltimore.</desc>
 </programme>
