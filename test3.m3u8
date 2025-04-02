@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/garrettmbh/tv/refs/heads/main/test4.xml"
 
 #EXTINF:-1 tvg-id="mlbari" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png" group-title="MLB",Arizona Diamondbacks - New York Yankees (AWAY)
 #EXTVLCOPT:http-origin=https://pixelsport.tv
