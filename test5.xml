@@ -24,6 +24,18 @@
 <programme channel="mlblad" start="20250403003800 -0000" stop="20250403033800 -0000">
 <title lang="en">Atlanta Braves - Los Angeles Dodgers (HOME)</title>
 </programme>
+<channel id="mlbbos">
+<display-name>Boston Red Sox - Baltimore Orioles (AWAY)</display-name>
+</channel>
+<programme channel="mlbbos" start="20250402223500 -0000" stop="20250403013500 -0000">
+<title lang="en">Boston Red Sox - Baltimore Orioles (AWAY)</title>
+</programme>
+<channel id="mlbbal">
+<display-name>Boston Red Sox - Baltimore Orioles (HOME)</display-name>
+</channel>
+<programme channel="mlbbal" start="20250402223500 -0000" stop="20250403013500 -0000">
+<title lang="en">Boston Red Sox - Baltimore Orioles (HOME)</title>
+</programme>
 <channel id="mlbchc">
 <display-name>Chicago Cubs - Athletics (AWAY)</display-name>
 </channel>
@@ -47,6 +59,18 @@
 </channel>
 <programme channel="mlbsd" start="20250402201000 -0000" stop="20250402231000 -0000">
 <title lang="en">Cleveland Guardians - San Diego Padres (HOME)</title>
+</programme>
+<channel id="mlbcol">
+<display-name>Colorado Rockies - Philadelphia Phillies (AWAY)</display-name>
+</channel>
+<programme channel="mlbcol" start="20250402224500 -0000" stop="20250403014500 -0000">
+<title lang="en">Colorado Rockies - Philadelphia Phillies (AWAY)</title>
+</programme>
+<channel id="mlbphi">
+<display-name>Colorado Rockies - Philadelphia Phillies (HOME)</display-name>
+</channel>
+<programme channel="mlbphi" start="20250402224500 -0000" stop="20250403014500 -0000">
+<title lang="en">Colorado Rockies - Philadelphia Phillies (HOME)</title>
 </programme>
 <channel id="mlbdet">
 <display-name>Detroit Tigers - Seattle Mariners (AWAY)</display-name>
