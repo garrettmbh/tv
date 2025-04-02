@@ -36,4 +36,22 @@
 <programme channel="mlbath" start="20250402193500 -0000" stop="20250402223500 -0000">
 <title lang="en">Chicago Cubs - Athletics (HOME)</title>
 </programme>
+<channel id="mlbcle">
+<display-name>Cleveland Guardians - San Diego Padres (AWAY)</display-name>
+</channel>
+<programme channel="mlbcle" start="20250402201000 -0000" stop="20250402231000 -0000">
+<title lang="en">Cleveland Guardians - San Diego Padres (AWAY)</title>
+</programme>
+<channel id="mlbsd">
+<display-name>Cleveland Guardians - San Diego Padres (HOME)</display-name>
+</channel>
+<programme channel="mlbsd" start="20250402201000 -0000" stop="20250402231000 -0000">
+<title lang="en">Cleveland Guardians - San Diego Padres (HOME)</title>
+</programme>
+<channel id="mlbdet">
+<display-name>Detroit Tigers - Seattle Mariners (AWAY)</display-name>
+</channel>
+<programme channel="mlbdet" start="20250402201000 -0000" stop="20250402231000 -0000">
+<title lang="en">Detroit Tigers - Seattle Mariners (AWAY)</title>
+</programme>
 </tv>
